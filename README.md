@@ -1,4 +1,4 @@
-# photo-gallery
+# Photo-gallery
 This is a simple photo gallery with cat pictures that you can scroll through and zoom in on.
 
 # Page URL:
